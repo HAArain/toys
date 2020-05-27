@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+body{ margin:0px;
+      padding:opx;
+}
+
+.toyes
+       { 
+	     height:130px;
+		 width:200px;
+		 margin:30px 200px;
+		 float:left;
+         background: #FFF;
+		 }
+		 
+#para
+     { margin-top:30px;
+      text-align:center;
+	  font-size:42px;
+	  text-decoration:underline;
+	  style="text-transform: uppercase; font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	   }
+	   
+.nav{height:100px;
+     width:100px;
+	 background-color:#6F0;
+	 
+	 float:left;}
+	   
+
+	  
+	  
+
+	  
+   
+
+		 
